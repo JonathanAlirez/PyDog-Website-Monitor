@@ -1,0 +1,12 @@
+# Ignore hidden files
+.*
+!.gitignore
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore database file
+data/webMonitor.db
+
+# Ignore client secret file
+client_secret.json
